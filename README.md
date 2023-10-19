@@ -44,4 +44,4 @@ You'll need a computer with the following installed:
 Tensorflow (https://www.tensorflow.org)
 Keras library (https://keras.io)
 Jupyter (http://jupyter.org)
-Download the x-rays provided in .zip file
+Download the Dataset provided in .zip file
